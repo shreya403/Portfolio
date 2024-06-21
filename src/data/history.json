@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Business Analyst",
+    "organisation": "Outlook",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on customer acquisition strategies and implementation",
+      "Developed data visualization solutions to present complex data insights clearly and effectively."
+    ],
+    "imageSrc": "history/outlook.png"
+  },
+  {
+    "role": "Python & ML intern",
+    "organisation": "AI CLUB IGDTUW",
+    "startDate": "Jun, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Learned Python and Machine Learning fundamentals",
+      "Submitted a research report."
+    ],
+    "imageSrc": "history/ai.png"
+  },
+  {
+    "role": "Frontend Dev",
+    "organisation": "Innerve",
+    "startDate": "Jul, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "Created a timeline for the official website of Innerve",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/innerve.png"
+  }
+]

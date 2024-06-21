@@ -1,0 +1,26 @@
+[
+  {
+    "title": "EchoQuotes",
+    "imageSrc": "projects/p1.png",
+    "description": "Providing an intuitive user interface for posting and viewing quotes..",
+    "skills": ["React", "Tailwind", "Firebase"],
+    "demo": "https://echo-quotes.vercel.app",
+    "source": "https://github.com/shreya403/EchoQuotes"
+  },
+  {
+    "title": "Email Spam-Detetction",
+    "imageSrc": "projects/p2.png",
+    "description": "Interface of an Email/SMS Spam Classifier that predicts whether a message is spam or not  .",
+    "skills": ["Python", "Sass", "Jupyter Notebook"],
+    "demo": "https://github.com/shreya403/Email-Sms-Spam-Detetction",
+    "source": "https://github.com/shreya403/Email-Sms-Spam-Detetction"
+  },
+  {
+    "title": "Fylo-Landing-Page",
+    "imageSrc": "projects/p3.png",
+    "description": "Landing page for file storage platform, Fylo, designed to store users' most important files in one location.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://shreya403.github.io/Fylo-Landing-Page/",
+    "source": "https://github.com/shreya403/Fylo-Landing-Page"
+  }
+]
