@@ -12,8 +12,8 @@ export const Hero = () => {
           I'm a front-end developer with 1 year of experience using React and
           NodeJS. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://github.com/shreya403" className={styles.contactBtn}>
+          Check out my github!
         </a>
       </div>
       <img
