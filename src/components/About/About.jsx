@@ -39,8 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Business Analyst</h3>
               <p>
-                Proficient in data analysis, creating insights to drive business decisions
-                and Expertise in creating data visualizations and reports to support strategic planning.
+              Proficient in data analysis, creating insights, and data visualizations to drive business decisions and support strategic planning.
               </p>
             </div>
           </li>
