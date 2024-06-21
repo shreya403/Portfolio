@@ -24,17 +24,7 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
-              </p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
+           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
@@ -44,6 +34,17 @@ export const About = () => {
               </p>
             </div>
           </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Business Analyst</h3>
+              <p>
+                Proficient in data analysis, creating insights to drive business decisions
+                and Expertise in creating data visualizations and reports to support strategic planning.
+              </p>
+            </div>
+          </li>
+         
         </ul>
       </div>
     </section>
